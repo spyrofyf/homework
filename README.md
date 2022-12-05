@@ -20,4 +20,8 @@ npm init
 ```sh
 npm install
 ```
-5.Enter "npm run dev" in terminal and click the link with control key.
+5.Enter this code in terminal and click the link with control key.
+```sh
+npm run dev
+```
+It's time! It's time to try this game!(A boring meme from my game)
