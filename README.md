@@ -25,4 +25,4 @@ npm install
 npm run dev
 ```
 It's time! It's time to try this game! (A boring meme from my game)  
-By the way, I found this game requires high computer configuration to achieve a smooth gaming experience. However, if your computer cannot run it smoothly or you are a victim of mac, don't worry. I have record the whole content of the game (all the 3 endings!). Check it in video folder.
+By the way, I found this game requires high computer configuration to achieve a smooth gaming experience. However, if your computer cannot run it smoothly or you are a victim of mac, don't worry. I have record the whole content of the game (all the 3 endings!). Check it in video folder. But if you can run it smoothly, I highly recommend you to play it and find all the endings!
