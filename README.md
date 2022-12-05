@@ -1,4 +1,4 @@
-# homework
+## Yifei Fan's Homework of Coding 1.
 Hello! Welcome to my final project of coding1.My project is a simple anti-Utopia game called "Control".
 ## Table of Contents
 
