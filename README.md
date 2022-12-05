@@ -24,4 +24,4 @@ npm install
 ```sh
 npm run dev
 ```
-It's time! It's time to try this game!(A boring meme from my game)
+It's time! It's time to try this game! (A boring meme from my game)
