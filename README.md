@@ -3,12 +3,12 @@ Hello! Welcome to my final project of coding1.
 ## Table of Contents
 
 - [Background](#background)
-- [How to run the project](#run)
+- [How to run the project](#How to run the project)
 
-## background
+## Background
 
 
-## run
+## How to run the project
 All you need to do is 5 simple things:
 1.Download and install the Node.Js
 2.Open the "coding1-fan-homework" by Visual Code.
