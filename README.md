@@ -6,7 +6,9 @@ Hello! Welcome to my final project of coding one.My project is a simple anti-Uto
 - [How to run the project](#how-to-run-the-project)
 
 ## Introduce
-You are
+You work for a powerful government. They ask you to do a job that looks simple but has hidden secrets. A big eye is watching your every move at the place you work.    
+By chance, you discovered the secret and the truth. What choice would you make? What is your fate under the rule of a powerful government?    
+Play it now and find all the 3 endings!
 
 ## How to run the project
 If you haven't download Node.js before, All you need to do is 5 simple things:  
