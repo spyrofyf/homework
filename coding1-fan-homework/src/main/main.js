@@ -173,7 +173,7 @@ import * as THREE from 'three';
 				screenText= [
 					
 					"it's time! It's time to do a glorious task for our great motherland!",
-					"Comrade, the government has entrusted you with this glorious task!",
+					"Comrade, we has entrusted you with this glorious task!",
 					"Listen, your duty is simple: dispose of these incompetents",
 					"All you have to do is press K to dispose them",
 					"Don't worry, incompetents are inanimate",
@@ -188,12 +188,12 @@ import * as THREE from 'three';
 					//press 1 time
 					"Comrade, what just happened?",
 					"You made a mistake, and an incompetent escaped",
-					"This behavior has caused losses to our government, shame on you",
+					"This behavior has caused losses to our motherland!, shame on you",
 					"We forgive you and hope that such a thing will not happen again",
 					"Keep working and DON'T CLICK ANYTHING else from now on",//[16]
 					//press 2 time
 					"Comrade, I really hope this is a mistake too",
-					"otherwise you are a shame to our great country",
+					"otherwise you are a shame to our great motherland!",
 					"The government is giving you one last chance to do what you should do",
 					"From now on, press K and DON'T DO ANYTHING ELSE",//[20]
 					//press 3 time	
