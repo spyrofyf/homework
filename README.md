@@ -1,5 +1,5 @@
 # Yifei Fan's Homework of Coding One.
-Hello! Welcome to my final project of coding one.My project is a simple anti-Utopia game called "Control".  
+Hello! Welcome to my final project of coding one. My project is a simple anti-Utopia game called "Control".  
 ## Table of Contents
 
 - [Introduce](#introduce)
