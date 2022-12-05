@@ -9,9 +9,9 @@ Hello! Welcome to my final project of coding1.My project is a simple anti-Utopia
 You are
 
 ## How to run the project
-If you haven't download Node.js before, All you need to do is 5 simple things:
-1.Download and install the Node.Js at https://nodejs.org/en/download/
-2.Open the "coding1-fan-homework" by Visual Code.
+If you haven't download Node.js before, All you need to do is 5 simple things:  
+1.Download and install the Node.Js at https://nodejs.org/en/download/  
+2.Open the "coding1-fan-homework" by Visual Code.  
 3.Enter this code in terminal and press enter key several times.
 ```sh
 npm init
