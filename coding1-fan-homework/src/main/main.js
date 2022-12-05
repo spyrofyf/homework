@@ -183,7 +183,7 @@ import * as THREE from 'three';
 					"Keep working, and remember: don't click on other places",
 					"Press K to dispose, you have disposed: ",//[9]
 					//kill 3 time
-					"Comrade, there seemed to be some noise just now, please don't care",
+					"Comrade, there seemed to be some noise just now, ignore it",
 					"Keep working, and remember: don't click on other places",//[11]
 					//press 1 time
 					"Comrade, what just happened?",
@@ -213,7 +213,7 @@ import * as THREE from 'three';
 					"You finally made the wise choice and got back on track",
 					"Although you let go of a few people, you still have completed the task",
 					"But at the same time we decided to arrest you for treason, you will die",
-					"Forgive? We seem to have this promise",
+					"Forgive? We seem to have promised this",
 					"Well, then the government forgives your mistake",
 					"But the government won't forgive your betrayal, you're a traitor",
 					"HOW DARE YOU!!!!",
