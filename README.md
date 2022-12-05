@@ -1,5 +1,5 @@
 # homework
-Hello! Welcome to my final project of coding1.
+Hello! Welcome to my final project of coding1./r
 It is a simple anti-Utopia game called "Control".
 ## Table of Contents
 
