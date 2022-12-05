@@ -3,7 +3,7 @@ Hello! Welcome to my final project of coding1.
 ## Table of Contents
 
 - [Background](#background)
-- [How to run the project](#How to run the project)
+- [How to run the project](#run)
 
 ## Background
 
