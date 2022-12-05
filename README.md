@@ -1,12 +1,13 @@
 # homework
 Hello! Welcome to my final project of coding1.
+It is a simple anti-Utopia game called "Control".
 ## Table of Contents
 
 - [Background](#background)
 - [How to run the project](#how-to-run-the-project)
 
 ## Background
-
+You are
 
 ## How to run the project
 All you need to do is 5 simple things:
