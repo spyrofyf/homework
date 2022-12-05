@@ -1,5 +1,6 @@
 # Yifei Fan's Homework of Coding One.
 Hello! Welcome to my final project of coding one. My project is a simple anti-Utopia game called "Control".  
+My GIT code repository link: https://github.com/spyrofyf/homework
 ## Table of Contents
 
 - [Introduce](#introduce)
